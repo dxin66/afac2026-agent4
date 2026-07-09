@@ -16,7 +16,6 @@ README.md
 ## 安装依赖
 
 ```bash
-cd /Users/dxin/Desktop/learn-claude-code/financial_long_context_agent4
 python3 -m pip install -r requirements.txt
 ```
 
